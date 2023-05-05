@@ -1,4 +1,15 @@
-### Hi there 👋
+### Superior126
+
+There once was a GitHub user named Superior126
+Who had a passion for coding and was very keen
+He wrote many programs in Python and js
+And shared them with others for everyone to see
+He was always learning new skills and techniques
+And never gave up when he faced any critiques
+He was a humble and friendly developer indeed
+And always helped others when they were in need
+Superior126 was a GitHub star, no doubt
+And everyone admired what he was about
 
 <!--
 **Superior126/Superior126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
