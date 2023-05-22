@@ -11,6 +11,10 @@ And always helped others when they were in need
 Superior126 was a GitHub star, no doubt
 And everyone admired what he was about
 
+![Superior125's github stats](https://github-readme-stats.vercel.app/api?username=Superior126)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Superior126)](https://github.com/Superior126/github-readme-stats)
+
+
 <!--
 **Superior126/Superior126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
