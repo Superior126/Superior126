@@ -1,7 +1,11 @@
-### Superior126
 
-![Superior125's github stats](https://github-readme-stats.vercel.app/api?username=Superior126)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Superior126)](https://github.com/Superior126/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Superior126&show_icons=true&theme=radical" alt="Superior126's GitHub Stats" align="right"  style="display: block">
+
+- 👋 Hi! I'm Superior125. AKA: Superior126
+- 🔭 I'm Currently working in Lif Platforms stuff
+- ⚡ Fun Fact: Rocks are really old
+- 😄 Pronouns: he/him
+- 📫 Reach me through Discord: @superior125
 
 
 <!--
